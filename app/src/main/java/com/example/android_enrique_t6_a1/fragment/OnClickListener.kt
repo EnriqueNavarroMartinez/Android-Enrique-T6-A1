@@ -8,6 +8,11 @@ interface OnClickListener {
     fun onClick(disco: Disco){
 
     }
+
+
+
+
+    
     fun onClick2(cancion: Cancion){
 
     }

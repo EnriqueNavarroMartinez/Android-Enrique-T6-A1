@@ -8,14 +8,14 @@
     android:layout_height="match_parent">
     <androidx.fragment.app.FragmentContainerView
         class="com.example.android_enrique_t6_a1.fragment.DiscoFragment"
-        android:id="@+id/frgListado"
+        android:id="@+id/fragmentDisco"
         android:layout_weight="30"
         android:layout_width="0dp"
         android:layout_height="match_parent"
         tools:layout="@layout/fragment_disco" />
     <androidx.fragment.app.FragmentContainerView
         class="com.example.android_enrique_t6_a1.fragment.CancionFragment"
-        android:id="@+id/frgDetalle"
+        android:id="@+id/fragmentCancion"
         android:layout_weight="70"
         android:layout_width="0dp"
         android:layout_height="match_parent"
